@@ -1,4 +1,4 @@
 # New Project
 
-project wes created from a local system.
-created by Abhijit Acharjya
+Project was created from a local system.  
+Created by **Abhijit Acharjya**.
